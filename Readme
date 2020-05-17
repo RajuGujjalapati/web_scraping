@@ -14,3 +14,13 @@ So, I automated the whole process through python selenium.
 Which now automatically fetch data, and stores data in text file, and then i stored in '.csv' file using pandas.
 After some preprocessing( because the data is too clumpsy), I finally done with this project.
 ****As of me Project means solving real world/human problems****
+
+# youtube_playlists
+
+- Due to covid, I was learning django and some other programming languages.
+-I found difficult while watching videos, due to internet connectivity.
+-So, I have the plans and timetable to learn, so i need to download manually every video.
+Yes, that is completelty fine if i am 'OK' with one video, what if i need a playlists consist of 30-100 videos.
+It is not possible every time to give new video link to download right.
+so, i just wanted to build a program which takes playlist link and download every video.
+You will find this code in 'selenium_youtbe_playlists_downld.py' file.
