@@ -35,7 +35,7 @@ import requests
 from bs4 import BeautifulSoup
 url = ('http://newsapi.org/v2/top-headlines?'
        'country=us&'
-       'apiKey=5fe0fbd068e941469a80c64805bd560b')
+       'apiKey=your api here')
 response = requests.get(url)
 soup=BeautifulSoup(response.text,'html.parser')
 #print(soup)
