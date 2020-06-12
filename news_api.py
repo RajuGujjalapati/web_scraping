@@ -1,7 +1,8 @@
 from newsapi import NewsApiClient
 
 # Init
-newsapi = NewsApiClient(api_key='5fe0fbd068e941469a80c64805bd560b')
+newsapi = NewsApiClient(api_key='your api key')
+#5fe0fbd068e941469a80c64805bd560#b##
 
 # /v2/top-headlines#top_headlines
 all_articles = newsapi.get_everything(q='COVID-19',
