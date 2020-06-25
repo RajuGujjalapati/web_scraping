@@ -11,9 +11,9 @@ If you want final submission the goto final_submission folder and you will find 
 so, i  have done this project as per request from one of my brother who is working in 'NGO'(Non- Government Organisation) , Andhra Pradesh.Who needs some data of 'prohited properties' in chittor district.
 He needs thousands of survey numbers (may be lakhs), so it is not possible to get data manually.
 So, I automated the whole process through python selenium.
-Which now automatically fetch data, and stores data in text file, and then i stored in '.csv' file using pandas.
-After some preprocessing( because the data is too clumpsy), I finally done with this project.
-****As of me Project means solving real world/human problems****
+Which now automatically fetches data, and stores data in text file, and then i stored in '.csv' file using pandas.
+After some preprocessing( because the data is too clumpsy), I finally done! with this project.
+****For me Project means solving real world/human problems****
 
 # youtube_playlists
 
